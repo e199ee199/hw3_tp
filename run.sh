@@ -4,6 +4,7 @@ command=$1
 
 if [ "$command" = 'build_generator' ]; then
     docker build -t generator ./generator
+    
 elif [ "$command" = 'run_generator' ]; then
     docker run --rm -v "$(pwd)/data:/data" generator
 elif [ "$command" = 'create_local_data' ]; then
