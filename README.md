@@ -6,4 +6,4 @@
 Источники которые я использовал НЕ в рамках лекции, которые требуются по условию задания:
 
 - монтирование тома (bind mount): <https://docs.docker.com/engine/storage/bind-mounts/>
-- условия в bash скрипте (`if`/`$1`): <https://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs>
+- условия в bash скрипте (`if`/`$1`) по моему это было у нас я помню на лекции было что-то такое, но на всякий случай нашел ссылку: <https://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs>
